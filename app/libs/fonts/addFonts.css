@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Magistral Bold";
+    src: url("../fonts/Magistral-Bold.otf") format("opentype");
+    src: url("../fonts/Magistral-Bold.eot") format("embedded-opentype"),
+         url("../fonts/Magistral-Bold.ttf") format("truetype"),
+         url("../fonts/Magistral-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: "MagistralC";
+    src: url("../fonts/MagistralC.otf") format("opentype");
+    src: url("../fonts/MagistralC.eot") format("embedded-opentype"),
+         url("../fonts/MagistralC.ttf") format("truetype"),
+         url("../fonts/MagistralC.woff") format("woff");
+}
+@font-face {
+    font-family: "SolidoPro-Black";
+    src: url("../fonts/SolidoPro-Black.otf") format("opentype");
+    src: url("../fonts/SolidoPro-Black.eot") format("embedded-opentype"),
+         url("../fonts/SolidoPro-Black.ttf") format("truetype"),
+         url("../fonts/SolidoPro-Black.woff") format("woff");
+}
+@font-face {
+    font-family: "SolidoPro-Bold";
+    src: url("../fonts/SolidoPro-Bold.otf") format("opentype");
+    src: url("../fonts/SolidoPro-Bold.eot") format("embedded-opentype"),
+         url("../fonts/SolidoPro-Bold.ttf") format("truetype"),
+         url("../fonts/SolidoPro-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: "SolidoPro-Book";
+    src: url("../fonts/SolidoPro-Book.otf") format("opentype");
+    src: url("../fonts/SolidoPro-Book.eot") format("embedded-opentype"),
+         url("../fonts/SolidoPro-Book.ttf") format("truetype"),
+         url("../fonts/SolidoPro-Book.woff") format("woff");
+}
